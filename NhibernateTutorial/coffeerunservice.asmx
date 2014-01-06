@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="coffeerunservice.asmx.cs" Class="NhibernateTutorial.Service1" %>
